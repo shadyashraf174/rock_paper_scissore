@@ -29,4 +29,4 @@ fun ComposeNavigation() {
             ScissorPage(navController)
         }
     }
-}
+}// how to fix the code
